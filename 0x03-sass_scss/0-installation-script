@@ -1,0 +1,7 @@
+# SASS Installation Steps
+
+1. Confirmed Node.js is installed by running:
+   node -v
+
+2. Installed SASS version 3.7.4 using npm:
+   npm install sass@3.7.4
